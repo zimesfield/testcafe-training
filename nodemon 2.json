@@ -1,0 +1,11 @@
+{
+  "watch": [
+    "cucumber/**/*.ts",
+    "cucumber/**/*.feature"
+  ],
+  "ext": "ts feature",
+  "ignore": [
+    "cucumber/**/*.spec.ts"
+  ],
+  "exec": "npm run cucumber"
+}

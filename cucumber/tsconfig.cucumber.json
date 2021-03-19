@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "declaration": true,
+    "declarationDir": "./lib",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "inlineSourceMap": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": false,
+    "noResolve": false,
+    "outDir": "./lib",
+    "pretty": true,
+    "sourceMap": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "target": "es2015",
+    "types": [
+      "node",
+      "testcafe/ts-defs",
+      "chai-string"
+    ],
+    "lib" : ["dom", "es2018"]
+  }
+}
