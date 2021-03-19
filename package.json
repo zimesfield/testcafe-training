@@ -1,8 +1,7 @@
 {
-  "name": "@ofqual/portal-organisations",
+  "name": "testcafe-training",
   "version": "0.4.52",
   "main": "dist/module/index.js",
-
   "scripts": {
     "cucumber": "TS_NODE_PROJECT=cucumber/tsconfig.cucumber.json npx cucumber-js -p cucumber --tags 'not @skip'",
     "cucumber:wip": "SCENARIO_RETRY=0 TAGS=@wip npm run cucumber",

@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuites>
-  <testsuite name="organisation List" time="19.172" tests="2" failures="0" errors="0" skipped="0">
-    <testcase name="I can search using search tool for specific Organisations" classname="organisation-list;i-can-search-using-search-tool-for-specific-organisations" time="14.194"/>
-    <testcase name="I can search using search tool for specific Organisations" classname="organisation-list;i-can-search-using-search-tool-for-specific-organisations" time="4.978"/>
-  </testsuite>
-</testsuites>
