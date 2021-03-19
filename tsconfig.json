@@ -19,7 +19,7 @@
     "sourceMap": true,
     "noFallthroughCasesInSwitch": true,
     "downlevelIteration": true,
-    "types": ["@ofqual/portal-core/core/theme", "jest"]
+    "types": ["jest"]
   },
   "include": ["src"]
 }
